@@ -1,7 +1,7 @@
 <img align="left" height="200" src="https://64.media.tumblr.com/ed8745b30c1a1d7eb1935017c94d8dbf/tumblr_n9i8foLj941qc2xm1o1_500.gifv"/>
     
     I'm Luisa, nice to e-meet you :)
-    I am Software Engineer @ PagSeguro PagBank
+    Software Engineer @ PagSeguro PagBank
     
     - Front-End Developer
     - React 💜
